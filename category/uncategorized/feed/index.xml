@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Jaguar  Lens</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://up-in-the-clouds.github.io/jaguarlens/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://up-in-the-clouds.github.io/jaguarlens</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Aug 2024 12:05:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/10/cropped-icon-32x32.png</url>
+	<url>https://up-in-the-clouds.github.io/jaguarlens/wp-content/uploads/2024/10/cropped-icon-32x32.png</url>
 	<title>Uncategorized &#8211; Jaguar  Lens</title>
-	<link></link>
+	<link>https://up-in-the-clouds.github.io/jaguarlens</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/2024/08/20/hello-world/</link>
-					<comments>/2024/08/20/hello-world/#comments</comments>
+		<link>https://up-in-the-clouds.github.io/jaguarlens/2024/08/20/hello-world/</link>
+					<comments>https://up-in-the-clouds.github.io/jaguarlens/2024/08/20/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[jaguarlens]]></dc:creator>
 		<pubDate>Tue, 20 Aug 2024 12:05:22 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://up-in-the-clouds.github.io/jaguarlens/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/08/20/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://up-in-the-clouds.github.io/jaguarlens/2024/08/20/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

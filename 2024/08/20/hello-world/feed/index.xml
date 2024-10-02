@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/2024/08/20/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/2024/08/20/hello-world/</link>
+	<atom:link href="https://up-in-the-clouds.github.io/jaguarlens/2024/08/20/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://up-in-the-clouds.github.io/jaguarlens/2024/08/20/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Tue, 20 Aug 2024 12:05:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/2024/08/20/hello-world/#comment-1</link>
+		<link>https://up-in-the-clouds.github.io/jaguarlens/2024/08/20/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 20 Aug 2024 12:05:22 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://up-in-the-clouds.github.io/jaguarlens/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
