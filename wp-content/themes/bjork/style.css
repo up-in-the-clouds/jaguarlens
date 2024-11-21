@@ -117,7 +117,7 @@ p.has-background {
 
 /* TEMPLATE PART: HEADER */
 
-@media ( min-width: 1102px ) {
+@media ( min-width: 782px ) {
 	:root:not(.editor-styles-wrapper) .site-header { display: none !important; }
 }
 
